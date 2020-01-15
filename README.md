@@ -1,0 +1,1 @@
+# Survival Analysis using Cox Proportional Hazards Model for predicting time to pay an invoice by a customer based on past customer history and invoice information.
